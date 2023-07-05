@@ -10,7 +10,7 @@
 <div align="center">
 I've been actively studying python development and data science for the last year. Focused on machine learning and data proccessing, also interested in web-development
 <h1 align="center">
-  My favourite tools 🛠️
+  My tools 🛠️
 </h1>
 </div>
 <div align="center">
