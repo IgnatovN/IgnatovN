@@ -8,7 +8,7 @@
 </h1>
 </div>
 <div>
-I've been actively studying python development and data science since 2022. Focused on machine learning and data proccessing, also interested in web-development
+I've been actively studying python development and data science for the last year. Focused on machine learning and data proccessing, also interested in web-development
 <h1>
   My tools 🛠️
 </h1>
