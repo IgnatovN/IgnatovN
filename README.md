@@ -9,11 +9,11 @@
 </div>
 <div>
 I've been actively studying python development and data science for the last year. Focused on machine learning and data proccessing, also interested in web-development
-<h1>
+<h1 align="center">
   My tools 🛠️
 </h1>
 </div>
-<div>
+<div align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg" width="65"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original-wordmark.svg" width="65"/>
 <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="80"/>
